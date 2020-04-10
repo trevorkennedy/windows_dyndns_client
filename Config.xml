@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<configuration>
+    <appSettings>
+        <add key="username" value="Your DynDNS Login" />
+        <add key="password" value="" />
+        <add key="hostname" value="example.dyndns.org" />
+        <add key="wildcard" value="OFF" />
+        <add key="mxrecord" value="" />
+        <add key="backupmx" value="NO" />
+        <add key="manualip" value="" />
+        <add key="posturl" value="http://checkip.dyndns.org/" />
+        <add key="beginip" value="Current IP Address: " />
+    </appSettings>
+</configuration>

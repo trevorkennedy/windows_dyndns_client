@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <appSettings>
+    <add key="username" value="skidmark" />
+    <add key="password" value="example" />
+    <add key="hostname" value="sa.dynalias.org" />
+    <add key="wildcard" value="OFF" />
+    <add key="mxrecord" value="" />
+    <add key="backupmx" value="NO" />
+    <add key="manualip" value="" />
+    <add key="posturl" value="http://www.whatismyip.com" />
+    <add key="beginip" value="Your ip is " />
+  </appSettings>
+</configuration>

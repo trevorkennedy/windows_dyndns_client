@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DotNet DynDNS Service", "DotNet DynDNS Service.vbproj", "{D344F612-8321-4E5B-8C26-C0AD51A2712D}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Configuration Client", "Configuration Client\Configuration Client.vbproj", "{D5A4C0E3-17DD-4573-8071-50B32ADE0A86}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{58C7DBC8-4CF2-4FA9-99B9-4D3B5396B944}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{D344F612-8321-4E5B-8C26-C0AD51A2712D}.Debug.ActiveCfg = Debug|.NET
+		{D344F612-8321-4E5B-8C26-C0AD51A2712D}.Debug.Build.0 = Debug|.NET
+		{D344F612-8321-4E5B-8C26-C0AD51A2712D}.Release.ActiveCfg = Release|.NET
+		{D344F612-8321-4E5B-8C26-C0AD51A2712D}.Release.Build.0 = Release|.NET
+		{D5A4C0E3-17DD-4573-8071-50B32ADE0A86}.Debug.ActiveCfg = Debug|.NET
+		{D5A4C0E3-17DD-4573-8071-50B32ADE0A86}.Debug.Build.0 = Debug|.NET
+		{D5A4C0E3-17DD-4573-8071-50B32ADE0A86}.Release.ActiveCfg = Release|.NET
+		{D5A4C0E3-17DD-4573-8071-50B32ADE0A86}.Release.Build.0 = Release|.NET
+		{58C7DBC8-4CF2-4FA9-99B9-4D3B5396B944}.Debug.ActiveCfg = Debug
+		{58C7DBC8-4CF2-4FA9-99B9-4D3B5396B944}.Release.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

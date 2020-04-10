@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <appSettings>
+    <add key="username" value="skidmark" />
+    <add key="password" value="trevor" />
+    <add key="hostname" value="sa.dnsalias.org" />
+    <add key="wildcard" value="OFF" />
+    <add key="mxrecord" value="" />
+    <add key="backupmx" value="NO" />
+    <add key="lastupdate" value="" />
+  </appSettings>
+</configuration>
